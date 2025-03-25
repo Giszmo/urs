@@ -1,3 +1,8 @@
+Vulnerability Warning: Do not use this library
+==============================================
+
+See the [upstream issue tracker](https://github.com/meling/urs/issues/1) for details.
+
 Unique Ring Signatures (URS)
 ============================
 
